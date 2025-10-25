@@ -1,0 +1,2 @@
+[console_scripts]
+ip-checker = ip_checker.ip_checker:get_ip_address
